@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows10.0.17763.0</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Platforms>x64</Platforms>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Version>1.1.0</Version>
+		<AssemblyVersion>1.1.0.0</AssemblyVersion>
+		<FileVersion>1.1.0.0</FileVersion>
+		<AssemblyName>KeyRep</AssemblyName>
+		<RootNamespace>KeyRep</RootNamespace>
+		<Product>KeyRep</Product>
+		<AssemblyTitle>KeyRep — key repeat for DDO</AssemblyTitle>
+		<Authors>Truecalling</Authors>
+		<Company>Truecalling</Company>
+		<RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+		<Configurations>Debug;Release</Configurations>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="VoK.Sdk" Version="4.2.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="..\..\assets\key_logo.png" Link="key_logo.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<EmbeddedResource Include="..\..\assets\key_logo.png">
+			<LogicalName>KeyRep.key_logo.png</LogicalName>
+		</EmbeddedResource>
+	</ItemGroup>
+
+</Project>

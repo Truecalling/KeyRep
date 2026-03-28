@@ -1,0 +1,10 @@
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\key_logo.png
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\KeyRep.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\KeyRep.deps.json
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\KeyRep.pdb
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\Microsoft.Windows.SDK.NET.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\WinRT.Runtime.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\log4net.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\Newtonsoft.Json.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\System.Drawing.Common.dll
+C:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\dist\pack_staging\plugins\KeyRep\VoK.Sdk.dll

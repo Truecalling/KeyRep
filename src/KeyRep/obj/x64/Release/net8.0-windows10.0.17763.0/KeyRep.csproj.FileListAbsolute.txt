@@ -1,0 +1,13 @@
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\bin\x64\Release\net8.0-windows10.0.17763.0\key_logo.png
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\bin\x64\Release\net8.0-windows10.0.17763.0\KeyRep.deps.json
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\bin\x64\Release\net8.0-windows10.0.17763.0\KeyRep.dll
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\bin\x64\Release\net8.0-windows10.0.17763.0\KeyRep.pdb
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.csproj.AssemblyReference.cache
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.AssemblyInfoInputs.cache
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.AssemblyInfo.cs
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.csproj.CoreCompileInputs.cache
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.dll
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\refint\KeyRep.dll
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\KeyRep.pdb
+c:\Users\mrmik\OneDrive\Documents\deve\vod.sdk\KeyRep\src\KeyRep\obj\x64\Release\net8.0-windows10.0.17763.0\ref\KeyRep.dll
